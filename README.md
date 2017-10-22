@@ -1,2 +1,2 @@
 # Machine-Learning-Note
-learning fron andrew NG radio 
+learning fron andrew NG videos
