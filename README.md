@@ -1,2 +1,2 @@
 # Machine-Learning-Note
-learning fron andrew NG videos
+learn from andrew NG videos
